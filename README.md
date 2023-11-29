@@ -2,6 +2,14 @@
 
 인공지능 동영상 강의
 
+// 고려대학교 오승상 교수님
+
+https://www.youtube.com/@seungsangoh9923/playlists
+
+// 고려대학교 DSBA 연구실
+
+https://www.youtube.com/@dsba2979/playlists
+
 // 논문익는 마을
 
 https://www.youtube.com/@user-ys8ws7vz5w
